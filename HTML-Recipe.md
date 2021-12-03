@@ -79,14 +79,14 @@ Length="20%"
 
 
 
-<li>In a Bowl we put the chocolate and butter.<li>
-<li>We put it in the microwave at medium temperatureso that it melts.<li>
+<li>In a Bowl we put the chocolate and butter.</li>
+<li>We put it in the microwave at medium temperatureso that it melts.</li>
 <li>Once melted we mix it very well.</li>
 <li>We put the eggs and the sugar in a bowl.</li>
 <li>We add the flour and the teaspoon of bicarbonat we mix very well.</li>
 <li>Add the melted chocolate along with the butter and a touch of vanilla an we keep mixing.</li>
 <li>We add the walnuts and the chocolate chips.</li>
 <li>In an oven container we put a little butter and flour so that the browie does not stick to us.</li>
-<li>Add the mixtures and cover with some seeds and some walnuts./li>
+<li>Add the mixtures and cover with some seeds and some walnuts.</li>
 <li>Then we put in the oven for 30-35 minutes at 180 F.</li>
 
