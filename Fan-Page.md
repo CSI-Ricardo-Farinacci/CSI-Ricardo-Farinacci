@@ -25,8 +25,8 @@
             width="50%"
             height="50%" 
             />
-<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-His father taught him to work hard and not to be tempted by street life. His mother taught him to sew, clean, and do laundry. Jordan loved sports but failed to make his high school basketball team as a sophomore. He continued to practice and made the team the next year. Where then his basketball careeer started.
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110% 
+ Fun facts about Michael Jordan,1. In Six Finals Series, He Averaged 33.6 PPG and Won Every Series.He is the Only Player to Win the Scoring Title and DPOTY in the Same Season.He Won a League Best 10 Scoring Titles.He is the Only Athlete Who is a Billionaire.He Once Recorded 10 Triple Doubles in 11 Games.He Donated His First Year Wizards Salary to 9/11 Relief Efforts.He Holds the Record for Career Regular Season and Playoff Scoring Average.
 <img src=
     </p>
 </div>
@@ -73,5 +73,5 @@ His father taught him to work hard and not to be tempted by street life. His mot
 <br><br>
 
 <p>
-    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
+    <i>Made by: <u>Ricardo Andres Farinaccin</u> on December 2, 2021</i>
 </p>
