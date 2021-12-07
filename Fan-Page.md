@@ -25,10 +25,11 @@
             width="50%"
             height="50%" 
             />
-<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110% 
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%" >
  Fun facts about Michael Jordan,1. In Six Finals Series, He Averaged 33.6 PPG and Won Every Series.He is the Only Player to Win the Scoring Title and DPOTY in the Same Season.He Won a League Best 10 Scoring Titles.He is the Only Athlete Who is a Billionaire.He Once Recorded 10 Triple Doubles in 11 Games.He Donated His First Year Wizards Salary to 9/11 Relief Efforts.He Holds the Record for Career Regular Season and Playoff Scoring Average.
-<img src=
-    </p>
+                </p>
+<img src="" />
+
 </div>
 
 <br>
