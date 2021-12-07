@@ -11,10 +11,11 @@
 <h2 align="center" >NBA Basketball Fan Page!</h2>
 
 <br>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+Michael Jordan is a former professional American basketball player, Olympic athlete, businessperson and actor. Considered one of the best basketball players ever, he dominated the sport from the mid-1980s to the late 1990s. Jordan led the Chicago Bulls to six National Basketball Association championships and earned the NBA's Most Valuable Player Award five times. With five regular-season MVPs and three All-Star MVPs, Jordan became the most decorated player in the NBA.
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
- Michael Jordan is widely considered to be the greatest basketball player in the history of the game. He was known for his all-around great basketball ability including scoring, passing, and defense.
- He also led the Chicago Bulls to six National Basketball Association (NBA) championships (1991–93, 1996–98). He was named the NBA's Most Valuable Player (MVP) five times. (1988, 1991, 1992, 1996, 1998) and was also named Defensive Player of the Year in 1988.
+ 
 </p>
 
 <br>
@@ -31,13 +32,19 @@
 </p>
     
 <div align="center">
-<img    src="https://cdn.britannica.com/09/188709-050-03BF34CB/Michael-Jordan.jpg"
+<img  src="
         title="Michael Jordan"
         width="50%"
         height="50%" />
 </div>
 
 <br>
+    
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%" >
+ Michael Jordan is widely considered to be the greatest basketball player in the history of the game. He was known for his all-around great basketball ability including scoring, passing, and defense.
+ He also led the Chicago Bulls to six National Basketball Association (NBA) championships (1991–93, 1996–98). He was named the NBA's Most Valuable Player (MVP) five times. (1988, 1991, 1992, 1996, 1998) and was also named Defensive Player of the Year in 1988.
+    </p>
+
 
 
 <table>
