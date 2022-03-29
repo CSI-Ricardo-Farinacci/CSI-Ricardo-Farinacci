@@ -10,7 +10,10 @@
 <br>
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
 In my future I want to be a business man and take over my family businesses. Since little I had always acompany by grandfather when he went to make business deals and I also went to his contruction places to seee how 
-everything works so since Little I've always wanted to be a Business Man.
+everything works so since Little I've always wanted to be a Business Man. I always find ways to make money since i was a little kid it being having online stores then switching to NFTs and when I grow older I want to own a 7 figure business my goal is to be sucessfull.
+    
+    
+   My plan is when im around 15 tears old go and visit all the different type of fields about business and get ideas and see which one im more passioned about and start doing a project about which business im going to make and then keep working on it and then Im going to graduate at 18 from highschool and go to college and take a business class I still dont know which specific class im going to take but I will figure it out later on and im going to start my business while in college when I graduate I will dedicate full time for it and also I will investigate on other ways to gain passive income.
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
  
 </p>
@@ -23,9 +26,14 @@ everything works so since Little I've always wanted to be a Business Man.
             width="50%"
             height="50%" 
             />
+    
+  Some great advice I have heard about business is "If you want to be a successful entrepreneur, you have to challenge yourself. No one else is going to push you, so it’s up to you to do it. Challenges keep entrepreneurs nimble and on their toes. If you’re constantly looking for the next challenge, you’ll always be prepared for what comes your way. Successful Entrepreneurs Are Passionate about Their Work If you don’t love what you do, don’t do it. I truly believe it’s as simple as that.As an entrepreneur, you’re going to have to put in long hours and make sacrifices for your business.When you’re passionate about what you do, putting in the long hours won’t feel like a sacrifice anymore.If you’re not passionate about what you do, you’re not going to have the motivation to keep going when you’re stressed and tired."
+
+
+       
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%" >
     
-When I start working and become a business man I want to Live in a 4 Story Mansion In PR and have a 2 story mansion in Miami. Also I would like to travel atleast 2 times a year. Also i want to own a yacht and a Private Jet
+When I start working and become a sucesfull business man I want to Live in a Mansion In PR and have a mansion in Miami. Also I would like to travel atleast 10 times a year. Also i want to own a yacht and a Private Jet and retire my parents, and help out the people around me if they need help and motivate people to follow their dreams no matter what it is because it is possible 
 </p>
 <div align="center">
 <img  src="https://cdn.sendx.io/prod/upload/img/19/10/22/27/9502/full.jpg"
