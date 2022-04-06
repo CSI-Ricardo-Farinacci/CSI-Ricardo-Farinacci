@@ -42,7 +42,7 @@ When I start working and become a sucesfull business man I want to Live in a Man
         height="50%" />
 </div>
 <br> 
-<p style = "text-indent: 2cm; font-family: 
+<p style = "text-indent: 2cm;">
 In the business field Im have interest in Large Company Entrepreneurship I want to make Hotels, Apartments, restaurants, own local land so people can rent and i get passive income monthly
     </p>                                                                      
  <br>
