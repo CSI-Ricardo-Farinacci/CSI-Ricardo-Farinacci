@@ -33,7 +33,7 @@ everything works so since Little I've always wanted to be a Business Man. I alwa
        
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%" >
     
-When I start working and become a sucesfull business man I want to Live in a Mansion In PR and have a mansion in Miami. Also I would like to travel atleast 10 times a year. Also i want to own a yacht and a Private Jet and retire my parents, and help out the people around me if they need help and motivate people to follow their dreams no matter what it is because it is possible 
+When I start working and become a sucesfull business man I want to Live in a Mansion In PR and have a mansion in Miami. Also I would like to travel atleast 10 times a year. Also i want to own a yacht and a Private Jet and retire my parents, and help out the people around me if they need help and motivate people to follow their dreams no matter what it is because it is possible.
 </p>
 <div align="center">
 <img  src="https://cdn.sendx.io/prod/upload/img/19/10/22/27/9502/full.jpg"
@@ -43,12 +43,12 @@ When I start working and become a sucesfull business man I want to Live in a Man
 </div>
 <br> 
 <p style = "text-indent: 2cm;">
-In the business field Im have interest in Large Company Entrepreneurship I want to make Hotels, Apartments, restaurants, own local land so people can rent and i get passive income monthly
+In the business field I have interest in Large Company Entrepreneurship I want to make Hotels, restaurants, and own local land so people can rent and i get passive income monthly and try my best to make time for each business. 
     </p>                                                                      
  <br>
                                                                          
 <div align="center">
-    <img    src="
+    <img src="https://utechia.com/wp-content/uploads/2021/11/business-foto.jpeg"
             width="50%"
             height="50%" />
 </div>
@@ -62,7 +62,7 @@ In the business field Im have interest in Large Company Entrepreneurship I want 
       <td>13</td>
     </tr>
     <tr>
-        <th>Birthday</th>h
+        <th>Birthday</th>
       <td> May 14, 2022
     </tr>
         <tr>
