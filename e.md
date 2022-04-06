@@ -71,10 +71,10 @@ In the business field I have interest in Large Company Entrepreneurship I want t
     </tr>
     <tr>
         <th>instagram</th>
-        <td>@farinacciricardo</td>
+        <td>@farinacci_ricardo</td>
     </tr>
     <tr>
-        <th>school/th>
+        <th>school</th>
         <td>CSI</td>
     </tr>
     <tr>
