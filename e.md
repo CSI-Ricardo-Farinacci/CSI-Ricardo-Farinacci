@@ -13,7 +13,7 @@ In my future I want to be a business man and take over my family businesses. Sin
 everything works so since Little I've always wanted to be a Business Man. I always find ways to make money since i was a little kid it being having online stores then switching to NFTs and when I grow older I want to own a 7 figure business my goal is to be sucessfull.
     
     
-   My plan is when im around 15 tears old go and visit all the different type of fields about business and get ideas and see which one im more passioned about and start doing a project about which business im going to make and then keep working on it and then Im going to graduate at 18 from highschool and go to college and take a business class I still dont know which specific class im going to take but I will figure it out later on and im going to start my business while in college when I graduate I will dedicate full time for it and also I will investigate on other ways to gain passive income.
+   My plan is when im around 15 years old go and visit all the different type of fields about business and get ideas and see which one im more passioned about and start doing a project about which business im going to make and then keep working on it and then Im going to graduate at 18 from highschool and go to college and take a business class I still dont know which specific class im going to take but I will figure it out later on and im going to start my business while in college when I graduate I will dedicate full time for it and also I will investigate on other ways to gain passive income.
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
  
 </p>
@@ -21,8 +21,8 @@ everything works so since Little I've always wanted to be a Business Man. I alwa
 <br>
 
 <div align="center">
-    <img    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLA4yCMeONFg3yldDwBkxXrtK2l8SDq1GRg&usqp=CAU"
-            title="Michael Jordan"
+    <img    src="https://watcher.guru/news/wp-content/uploads/2021/08/unnamed-2-1.png.webp"
+            title="Ricardo Farinacci"
             width="50%"
             height="50%" 
             />
@@ -50,7 +50,7 @@ In the business field Im have interest in Large Company Entrepreneurship I want 
 <div align="center">
     <img    src="
             width="50%"
-            height="50%"        />
+            height="50%" />
 </div>
 <table>
     <tr>
