@@ -36,10 +36,12 @@ everything works so since Little I've always wanted to be a Business Man. I alwa
 When I start working and become a sucesfull business man I want to Live in a Mansion In PR and have a mansion in Miami. Also I would like to travel atleast 10 times a year. Also i want to own a yacht and a Private Jet and retire my parents, and help out the people around me if they need help and motivate people to follow their dreams no matter what it is because it is possible.
 </p>
 <div align="center">
+<p style="text-align:center>
 <img  src="https://cdn.sendx.io/prod/upload/img/19/10/22/27/9502/full.jpg"
         title="Michael Jordan"
         width="50%"
         height="50%" />
+</p>
 </div>
 <br> 
 <p style = "text-indent: 2cm;">
