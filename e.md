@@ -21,11 +21,13 @@ everything works so since Little I've always wanted to be a Business Man. I alwa
 <br>
 
 <div align="center">
+<p style="text-align:center">
     <img    src="https://watcher.guru/news/wp-content/uploads/2021/08/unnamed-2-1.png.webp"
             title="Ricardo Farinacci"
             width="50%"
             height="50%" 
             />
+ </p>
     
   Some great advice I have heard about business is "If you want to be a successful entrepreneur, you have to challenge yourself. No one else is going to push you, so it’s up to you to do it. Challenges keep entrepreneurs nimble and on their toes. If you’re constantly looking for the next challenge, you’ll always be prepared for what comes your way. Successful Entrepreneurs Are Passionate about Their Work If you don’t love what you do, don’t do it. I truly believe it’s as simple as that.As an entrepreneur, you’re going to have to put in long hours and make sacrifices for your business.When you’re passionate about what you do, putting in the long hours won’t feel like a sacrifice anymore.If you’re not passionate about what you do, you’re not going to have the motivation to keep going when you’re stressed and tired."
 
